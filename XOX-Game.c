@@ -2,7 +2,6 @@
 int main() {
 
     /*
-    deneme
     Oyuna başlamadan önce oyunun nasıl yapılacağı hakkında fikir alma amaçlı olarak internetten araştırma yaptım ama kodun tamamı kendimce yazıldı herhangi bir kopyala yapıştır durumu bulunmuyor. Benzerlik gösterirse diye dile getirdim. 
     */
 
